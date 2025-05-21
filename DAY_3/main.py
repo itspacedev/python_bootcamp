@@ -1,0 +1,5 @@
+print("\n----- Modulo operator -----\n")
+print("Modulo operator returns the remaining part of the division operation")
+print(f"10 % 5 = {10 % 5}")
+print(f"7 % 3 = {7 % 3}")
+print(f"4.7 % 2.3 = {4.7 % 2.3}")
