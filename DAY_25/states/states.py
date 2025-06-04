@@ -30,10 +30,13 @@ while len(guessed_states) < 50:
         t.write(answer_state, align="center")
 
 
-missing_states = []
-for state in all_states:
-    if state not in guessed_states:
-        missing_states.append(state)
+# missing_states = []
+# for state in all_states:
+#     if state not in guessed_states:
+#         missing_states.append(state)
+
+# Updated version using List Comprehension
+missing_states = [state_name for state_name in all_states if state_name not in guessed_states]
 
 new_dataframe = pandas.DataFrame(missing_states)
 new_dataframe.to_csv("states_to_learn.csv")
