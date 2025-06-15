@@ -1,0 +1,51 @@
+Looking for cheap flights from London to Paris
+
+Departure from LGW at 2025-06-15 19:40
+Arrival to ORY at 2025-06-15 22:05
+Price: GBP 124.38
+
+Looking for cheap flights from London to Frankfurt
+
+Departure from LHR at 2025-06-15 15:30
+Arrival to FRA at 2025-06-15 18:05
+Price: GBP 270.72
+
+Looking for cheap flights from London to Tokyo
+
+Departure from LHR at 2025-06-15 19:00
+Arrival to HND at 2025-06-16 17:15
+Price: GBP 1208.82
+
+Looking for cheap flights from London to Hong Kong
+
+Departure from LHR at 2025-06-15 17:00
+Arrival to HKG at 2025-06-16 12:35
+Price: GBP 537.42
+
+Looking for cheap flights from London to Istanbul
+
+Departure from STN at 2025-06-15 15:45
+Arrival to SAW at 2025-06-15 21:40
+Price: GBP 56.46
+
+Looking for cheap flights from London to Kuala Lumpur
+
+Departure from LHR at 2025-06-15 21:35
+Arrival to KUL at 2025-06-16 17:50
+Price: GBP 413.92
+
+Looking for cheap flights from London to New York
+
+Departure from LGW at 2025-06-15 13:05
+Arrival to JFK at 2025-06-15 15:55
+Price: GBP 285.98
+
+Looking for cheap flights from London to San Francisco
+
+Departure from LHR at 2025-06-15 14:05
+Arrival to SFO at 2025-06-15 17:15
+Price: GBP 2030.42
+
+Looking for cheap flights from London to Dublin
+
+There are no flights between London and Dublin on that date
